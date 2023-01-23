@@ -1,6 +1,8 @@
 # MVCRestAPI
 
-A REST API I created using: .NET Core 3.1. 
+A REST API I created using: 
+
+.NET Core 3.1. 
 Employs MVC, REST, the Repository Pattern, 
 Dependency Injection, Entity Framework, 
 Data Transfer Objects, (DTOs), 
