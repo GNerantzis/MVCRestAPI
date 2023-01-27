@@ -6,4 +6,4 @@ A REST API I created using:
 Employs MVC, REST, the Repository Pattern, 
 Dependency Injection, Entity Framework, 
 Data Transfer Objects, (DTOs), 
-AutoMapper to provide 6 API endpoints that allow to Create, Read Update and Delete resources.
+AutoMapper to provide 6 API endpoints that allow to Create, Read, Update and Delete resources.
